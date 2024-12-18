@@ -1,0 +1,71 @@
+# --------------------------
+# Unity generated files
+# --------------------------
+
+# 忽略系统特定文件
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+*.swo
+*.pid
+*.sublime-workspace
+
+# 忽略用户特定的文件
+*.user
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.vsconfig
+
+# 忽略 Unity 缓存和构建文件
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Pp]ackages/manifest.json
+[Pp]ackages/packages-lock.json
+/Assets/Plugins/GitHub/
+[Uu]serSettings/
+
+# 忽略 Unity 自动生成的文件
+sysinfo.txt
+*.stackdump
+
+# 忽略版本控制文件
+*.log
+*.vs/
+*.pdb
+
+# 忽略 Play Mode 测试结果
+*.asmdef.meta
+*.asmdef
+
+# 忽略由 Unity 生成的元文件
+*.meta
+
+# 忽略系统文件
+*.DS_Store
+Thumbs.db
+
+# 可选：如果你的项目使用 Addressables，请添加以下规则：
+# 忽略 Addressable Assets 的库文件
+/Assets/AddressableAssetsData/*/*.bin
+/Assets/AddressableAssetsData/*/*.hash
+
+# 可选：如果你的项目使用 Rider IDE
+.idea/
+*.iml
+.idea/modules.xml
+
+# 忽略系统特定的文件
+/MemoryCaptures/
